@@ -1,12 +1,12 @@
 🕘️更新时间,#genre#
-2025-09-13 20:25:34,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+2025-09-14 00:16:41,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 
 📺央视频道,#genre#
 
 📡卫视频道,#genre#
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://lxajh.top/tv/hn.php?id=hnws
+河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 
 🎬电影频道,#genre#

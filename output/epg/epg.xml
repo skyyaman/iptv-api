@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250913122534 +0800">
+<tv date="20250913161641 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -4860,47 +4860,41 @@
 	<programme channel="甘肃卫视" start="20250913080200 +0800" stop="20250913085400 +0800">
 		<title lang="zh">雄关剧场:猎鹰1949(24)</title>
 	</programme>
-	<programme channel="甘肃卫视" start="20250913085400 +0800" stop="20250913094800 +0800">
+	<programme channel="甘肃卫视" start="20250913085400 +0800" stop="20250913094900 +0800">
 		<title lang="zh">雄关剧场:猎鹰1949(25)</title>
 	</programme>
-	<programme channel="甘肃卫视" start="20250913094800 +0800" stop="20250913104200 +0800">
+	<programme channel="甘肃卫视" start="20250913094900 +0800" stop="20250913104600 +0800">
 		<title lang="zh">雄关剧场:猎鹰1949(26)</title>
 	</programme>
-	<programme channel="甘肃卫视" start="20250913104200 +0800" stop="20250913113400 +0800">
+	<programme channel="甘肃卫视" start="20250913104600 +0800" stop="20250913114000 +0800">
 		<title lang="zh">雄关剧场:猎鹰1949(27)</title>
 	</programme>
-	<programme channel="甘肃卫视" start="20250913113400 +0800" stop="20250913114900 +0800">
+	<programme channel="甘肃卫视" start="20250913114000 +0800" stop="20250913123000 +0800">
 		<title lang="zh">雄关剧场:猎鹰1949(28)</title>
 	</programme>
-	<programme channel="甘肃卫视" start="20250913114900 +0800" stop="20250913123000 +0800">
-		<title lang="zh">丝路大讲堂</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20250913123000 +0800" stop="20250913125100 +0800">
+	<programme channel="甘肃卫视" start="20250913123000 +0800" stop="20250913130000 +0800">
 		<title lang="zh">午间20分</title>
 	</programme>
-	<programme channel="甘肃卫视" start="20250913125100 +0800" stop="20250913130200 +0800">
+	<programme channel="甘肃卫视" start="20250913130000 +0800" stop="20250913131000 +0800">
 		<title lang="zh">甘肃天气预报</title>
 	</programme>
-	<programme channel="甘肃卫视" start="20250913130200 +0800" stop="20250913135200 +0800">
-		<title lang="zh">花雨剧场</title>
+	<programme channel="甘肃卫视" start="20250913131000 +0800" stop="20250913135800 +0800">
+		<title lang="zh">花雨剧场:薛平贵与王宝钏(63)</title>
 	</programme>
-	<programme channel="甘肃卫视" start="20250913135200 +0800" stop="20250913145000 +0800">
-		<title lang="zh">花雨剧场</title>
+	<programme channel="甘肃卫视" start="20250913135800 +0800" stop="20250913145400 +0800">
+		<title lang="zh">花雨剧场:薛平贵与王宝钏(64)</title>
 	</programme>
-	<programme channel="甘肃卫视" start="20250913145000 +0800" stop="20250913155300 +0800">
-		<title lang="zh">花雨剧场</title>
+	<programme channel="甘肃卫视" start="20250913145400 +0800" stop="20250913155300 +0800">
+		<title lang="zh">花雨剧场:薛平贵与王宝钏(65)</title>
 	</programme>
-	<programme channel="甘肃卫视" start="20250913155300 +0800" stop="20250913163600 +0800">
-		<title lang="zh">花雨剧场</title>
+	<programme channel="甘肃卫视" start="20250913155300 +0800" stop="20250913163700 +0800">
+		<title lang="zh">花雨剧场:薛平贵与王宝钏(66)</title>
 	</programme>
-	<programme channel="甘肃卫视" start="20250913163600 +0800" stop="20250913173600 +0800">
-		<title lang="zh">花雨剧场</title>
+	<programme channel="甘肃卫视" start="20250913163700 +0800" stop="20250913173600 +0800">
+		<title lang="zh">花雨剧场:飞虎神鹰(1)</title>
 	</programme>
-	<programme channel="甘肃卫视" start="20250913173600 +0800" stop="20250913180000 +0800">
+	<programme channel="甘肃卫视" start="20250913173600 +0800" stop="20250913181000 +0800">
 		<title lang="zh">动画片剧场:超级飞侠(18)</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20250913180000 +0800" stop="20250913181000 +0800">
-		<title lang="zh">兰州新区新闻</title>
 	</programme>
 	<programme channel="甘肃卫视" start="20250913181000 +0800" stop="20250913183000 +0800">
 		<title lang="zh">今日聚焦</title>
