@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251004122547 +0800">
+<tv date="20251004161853 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -4866,35 +4866,20 @@
 	<programme channel="甘肃卫视" start="20251004072600 +0800" stop="20251004075100 +0800">
 		<title lang="zh">法治伴你行</title>
 	</programme>
-	<programme channel="甘肃卫视" start="20251004075100 +0800" stop="20251004082100 +0800">
+	<programme channel="甘肃卫视" start="20251004075100 +0800" stop="20251004085200 +0800">
 		<title lang="zh">飞虎神鹰(21)</title>
 	</programme>
-	<programme channel="甘肃卫视" start="20251004082100 +0800" stop="20251004085200 +0800">
-		<title lang="zh">生活服务</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20251004085200 +0800" stop="20251004092200 +0800">
+	<programme channel="甘肃卫视" start="20251004085200 +0800" stop="20251004094500 +0800">
 		<title lang="zh">飞虎神鹰(22)</title>
 	</programme>
-	<programme channel="甘肃卫视" start="20251004092200 +0800" stop="20251004094500 +0800">
-		<title lang="zh">生活服务</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20251004094500 +0800" stop="20251004101500 +0800">
+	<programme channel="甘肃卫视" start="20251004094500 +0800" stop="20251004104300 +0800">
 		<title lang="zh">飞虎神鹰(23)</title>
 	</programme>
-	<programme channel="甘肃卫视" start="20251004101500 +0800" stop="20251004104300 +0800">
-		<title lang="zh">生活服务</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20251004104300 +0800" stop="20251004111300 +0800">
+	<programme channel="甘肃卫视" start="20251004104300 +0800" stop="20251004113500 +0800">
 		<title lang="zh">飞虎神鹰(24)</title>
 	</programme>
-	<programme channel="甘肃卫视" start="20251004111300 +0800" stop="20251004113500 +0800">
-		<title lang="zh">生活服务</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20251004113500 +0800" stop="20251004120500 +0800">
+	<programme channel="甘肃卫视" start="20251004113500 +0800" stop="20251004123000 +0800">
 		<title lang="zh">飞虎神鹰(25)</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20251004120500 +0800" stop="20251004123000 +0800">
-		<title lang="zh">生活服务</title>
 	</programme>
 	<programme channel="甘肃卫视" start="20251004123000 +0800" stop="20251004125000 +0800">
 		<title lang="zh">午间20分</title>
@@ -4905,35 +4890,20 @@
 	<programme channel="甘肃卫视" start="20251004130200 +0800" stop="20251004130600 +0800">
 		<title lang="zh">午间天气预报</title>
 	</programme>
-	<programme channel="甘肃卫视" start="20251004130600 +0800" stop="20251004133500 +0800">
+	<programme channel="甘肃卫视" start="20251004130600 +0800" stop="20251004135700 +0800">
 		<title lang="zh">孤岛飞鹰(49)</title>
 	</programme>
-	<programme channel="甘肃卫视" start="20251004133500 +0800" stop="20251004135700 +0800">
-		<title lang="zh">生活服务</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20251004135700 +0800" stop="20251004142500 +0800">
+	<programme channel="甘肃卫视" start="20251004135700 +0800" stop="20251004145300 +0800">
 		<title lang="zh">孤岛飞鹰(50)</title>
 	</programme>
-	<programme channel="甘肃卫视" start="20251004142500 +0800" stop="20251004145300 +0800">
-		<title lang="zh">生活服务</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20251004145300 +0800" stop="20251004152100 +0800">
+	<programme channel="甘肃卫视" start="20251004145300 +0800" stop="20251004154500 +0800">
 		<title lang="zh">孤岛飞鹰(51)</title>
 	</programme>
-	<programme channel="甘肃卫视" start="20251004152100 +0800" stop="20251004154500 +0800">
-		<title lang="zh">生活服务</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20251004154500 +0800" stop="20251004161200 +0800">
+	<programme channel="甘肃卫视" start="20251004154500 +0800" stop="20251004163600 +0800">
 		<title lang="zh">孤岛飞鹰(52)</title>
 	</programme>
-	<programme channel="甘肃卫视" start="20251004161200 +0800" stop="20251004163600 +0800">
-		<title lang="zh">生活服务</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20251004163600 +0800" stop="20251004170300 +0800">
+	<programme channel="甘肃卫视" start="20251004163600 +0800" stop="20251004173500 +0800">
 		<title lang="zh">猎鹰1949(1)</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20251004170300 +0800" stop="20251004173500 +0800">
-		<title lang="zh">生活服务</title>
 	</programme>
 	<programme channel="甘肃卫视" start="20251004173500 +0800" stop="20251004181000 +0800">
 		<title lang="zh">海底小纵队6</title>
