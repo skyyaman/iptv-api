@@ -1,19 +1,15 @@
 🕘️更新时间,#genre#
-2025-10-05 12:18:58,http://111.227.196.164:9901/tsfile/live/0001_1.m3u8
+2025-10-05 16:19:30,http://111.127.156.228:51234/rtp/239.29.0.95:5000
 
 📺央视频道,#genre#
-CCTV-1,http://111.227.196.164:9901/tsfile/live/0001_1.m3u8
-CCTV-9,http://zzssw01.55555.io:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CETV-1,http://111.127.156.228:51234/rtp/239.29.0.95:5000
 CETV-1,http://221.10.226.195:5000/rtp/239.0.0.51:5140
 CETV-4,http://221.10.226.195:5000/rtp/239.0.0.98:5140
 
 📡卫视频道,#genre#
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-重庆卫视,http://111.227.196.164:9901/tsfile/live/0142_1.m3u8
-贵州卫视,http://zzssw01.55555.io:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-深圳卫视,http://zzssw01.55555.io:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 
 🎬电影频道,#genre#
 经典电影,https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40
+IPTV经典电影,http://139.129.231.228/rtp/239.21.1.124:5002
