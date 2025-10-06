@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251006041919 +0800">
+<tv date="20251006082215 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -5868,4 +5868,7 @@
 	<programme channel="黑龙江卫视" start="20251006233600 +0800" stop="20251006235900 +0800">
 		<title lang="zh">活力剧场:追风行动</title>
 	</programme>
+	<channel id="IPTV经典电影">
+		<display-name lang="zh">IPTV经典电影</display-name>
+	</channel>
 </tv>
