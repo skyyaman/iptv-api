@@ -1,13 +1,18 @@
 🕘️更新时间,#genre#
-2025-10-09 09:07:29,http://111.127.156.228:51234/rtp/239.29.0.95:5000
+2025-10-09 12:20:31,https://60.191.56.186:8888/hls/15/index.m3u8
 
 📺央视频道,#genre#
+CCTV-5+,https://60.191.56.186:8888/hls/15/index.m3u8
+CCTV-13,https://60.191.56.186:8888/hls/13/index.m3u8
+CCTV-16,https://60.191.56.186:8888/hls/16/index.m3u8
 CETV-1,http://111.127.156.228:51234/rtp/239.29.0.95:5000
 CETV-4,http://221.10.226.195:5000/rtp/239.0.0.98:5140
 
 📡卫视频道,#genre#
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
+陕西卫视,http://218.8.87.96:4000/rtp/229.58.190.80:5000
+云南卫视,http://218.8.87.96:4000/rtp/229.58.190.176:5000
 
 🎬电影频道,#genre#
 经典电影,https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40
