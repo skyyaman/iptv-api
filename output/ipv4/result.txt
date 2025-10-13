@@ -1,12 +1,15 @@
 🕘️更新时间,#genre#
-2025-10-13 09:11:02,http://111.127.156.228:51234/rtp/239.29.0.95:5000
+2025-10-13 12:20:45,http://111.127.156.228:51234/rtp/239.29.0.95:5000
 
 📺央视频道,#genre#
 CETV-1,http://111.127.156.228:51234/rtp/239.29.0.95:5000
 CETV-4,http://221.10.226.195:5000/rtp/239.0.0.98:5140
 
 📡卫视频道,#genre#
+浙江卫视,http://pa.kuangdeng.top:8081/hls/18/index.m3u8
+湖南卫视,http://pa.kuangdeng.top:8081/hls/16/index.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+江苏卫视,http://pa.kuangdeng.top:8081/hls/19/index.m3u8
 
 🎬电影频道,#genre#
 经典电影,https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40
