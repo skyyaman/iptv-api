@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2025-10-15 16:21:37,http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/chunklist_w744036192_b1000000.m3u8
+2025-10-15 20:34:29,http://111.127.156.228:51234/rtp/239.29.0.95:5000
 
 📺央视频道,#genre#
-CCTV-11,http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/chunklist_w744036192_b1000000.m3u8
 CETV-1,http://111.127.156.228:51234/rtp/239.29.0.95:5000
 
 📡卫视频道,#genre#
@@ -10,3 +9,4 @@ CETV-1,http://111.127.156.228:51234/rtp/239.29.0.95:5000
 
 🎬电影频道,#genre#
 经典电影,https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40
+IPTV经典电影,http://139.129.231.228/rtp/239.21.1.124:5002
