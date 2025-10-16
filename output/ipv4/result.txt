@@ -1,7 +1,8 @@
 🕘️更新时间,#genre#
-2025-10-16 16:21:38,https://httop.top/ysp-cetv1
+2025-10-16 20:33:53,http://106.53.99.30/tv/cctv13.php
 
 📺央视频道,#genre#
+CCTV-13,http://106.53.99.30/tv/cctv13.php
 CETV-1,https://httop.top/ysp-cetv1
 
 📡卫视频道,#genre#
