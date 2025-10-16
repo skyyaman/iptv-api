@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-16 20:33:53,http://106.53.99.30/tv/cctv13.php
+2025-10-17 00:19:55,http://106.53.99.30/tv/cctv13.php
 
 📺央视频道,#genre#
 CCTV-13,http://106.53.99.30/tv/cctv13.php
@@ -10,3 +10,4 @@ CETV-1,https://httop.top/ysp-cetv1
 
 🎬电影频道,#genre#
 经典电影,https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40
+IPTV经典电影,http://139.129.231.228/rtp/239.21.1.124:5002
