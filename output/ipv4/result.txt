@@ -1,14 +1,10 @@
 🕘️更新时间,#genre#
-2025-10-17 20:31:50,https://httop.top/ysp-cctv4
+2025-10-18 00:20:30,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 
 📺央视频道,#genre#
-CCTV-4,https://httop.top/ysp-cctv4
-CCTV-12,https://httop.top/ysp-cctv12
-CETV-1,https://httop.top/ysp-cetv1
 
 📡卫视频道,#genre#
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-宁夏卫视,https://httop.top/ysp-宁夏卫视
 
 🎬电影频道,#genre#
 经典电影,https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40
