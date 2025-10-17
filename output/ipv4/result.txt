@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-17 16:22:31,https://httop.top/ysp-cctv4
+2025-10-17 20:31:50,https://httop.top/ysp-cctv4
 
 📺央视频道,#genre#
 CCTV-4,https://httop.top/ysp-cctv4
@@ -8,7 +8,6 @@ CETV-1,https://httop.top/ysp-cetv1
 
 📡卫视频道,#genre#
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-内蒙古卫视,http://218.8.87.96:4000/rtp/229.58.190.183:5000
 宁夏卫视,https://httop.top/ysp-宁夏卫视
 
 🎬电影频道,#genre#
