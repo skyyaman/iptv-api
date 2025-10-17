@@ -1,12 +1,9 @@
 🕘️更新时间,#genre#
-2025-10-17 12:19:01,https://httop.top/ysp-cctv4
+2025-10-17 16:22:31,https://httop.top/ysp-cctv4
 
 📺央视频道,#genre#
 CCTV-4,https://httop.top/ysp-cctv4
-CCTV-5,https://httop.top/ysp-cctv5
 CCTV-12,https://httop.top/ysp-cctv12
-CCTV-16,https://httop.top/ysp-cctv16
-CCTV-17,https://httop.top/ysp-cctv17
 CETV-1,https://httop.top/ysp-cetv1
 
 📡卫视频道,#genre#
