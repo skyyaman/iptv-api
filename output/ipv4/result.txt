@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-18 16:18:43,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+2025-10-18 20:27:48,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 
 📺央视频道,#genre#
 
@@ -8,3 +8,4 @@
 
 🎬电影频道,#genre#
 经典电影,https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40
+IPTV经典电影,http://139.129.231.228/rtp/239.21.1.124:5002
