@@ -1,11 +1,17 @@
 🕘️更新时间,#genre#
-2025-10-22 09:11:25,https://httop.top/tv-cetv1
+2025-10-22 12:20:29,https://httop.top/tv-cctv3
 
 📺央视频道,#genre#
+CCTV-3,https://httop.top/tv-cctv3
+CCTV-6,https://httop.top/tv-cctv6
 CETV-1,https://httop.top/tv-cetv1
+CETV-1,http://14.106.98.5:888/hls/12/index.m3u8
+CETV-4,http://live1.hrtn.net/live/zgjy4_1000.m3u8?auth_key=1761268803-3bb3c9d2203d3dfef88174e5c1b1841a-0-6b415f081be692288c8c454cd83543bc
 
 📡卫视频道,#genre#
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+青海卫视,https://httop.top/tv-青海卫视
+新疆卫视,https://httop.top/tv-新疆卫视
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 
 🎬电影频道,#genre#
