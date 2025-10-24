@@ -1,12 +1,25 @@
 🕘️更新时间,#genre#
-2025-10-24 09:05:47,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+2025-10-24 12:18:43,http://1.31.14.70:54321/hls/7/index.m3u8
 
 📺央视频道,#genre#
+CCTV-5,http://1.31.14.70:54321/hls/7/index.m3u8
+CCTV-6,http://1.31.14.70:54321/hls/8/index.m3u8
+CCTV-8,http://1.31.14.70:54321/hls/14/index.m3u8
+CCTV-11,http://1.31.14.70:54321/hls/16/index.m3u8
+CCTV-12,http://1.31.14.70:54321/hls/12/index.m3u8
+CETV-4,http://live1.hrtn.net/live/zgjy4_1000.m3u8?auth_key=1761441272-ba6611fd37a5632a3eb22f94af6e79ba-0-9110315f3cd3743618ad1c88d29eed01
 
 📡卫视频道,#genre#
+广东卫视,http://1.31.14.70:54321/hls/28/index.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+湖北卫视,http://1.31.14.70:54321/hls/39/index.m3u8
+重庆卫视,http://1.31.14.70:54321/hls/34/index.m3u8
 东方卫视,http://1.31.14.70:54321/hls/27/index.m3u8
 河北卫视,http://1.31.14.70:54321/hls/18/index.m3u8
+江苏卫视,http://1.31.14.70:54321/hls/3/index.m3u8
+内蒙古卫视,http://1.31.14.70:54321/hls/55/index.m3u8
+山东卫视,http://1.31.14.70:54321/hls/32/index.m3u8
+四川卫视,http://1.31.14.70:54321/hls/41/index.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 
 🎬电影频道,#genre#
