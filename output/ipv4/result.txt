@@ -1,11 +1,9 @@
 🕘️更新时间,#genre#
-2025-10-24 16:20:39,http://1.31.14.70:54321/hls/7/index.m3u8
+2025-10-24 20:31:52,http://1.31.14.70:54321/hls/7/index.m3u8
 
 📺央视频道,#genre#
 CCTV-5,http://1.31.14.70:54321/hls/7/index.m3u8
 CCTV-6,http://1.31.14.70:54321/hls/8/index.m3u8
-CCTV-8,http://1.31.14.70:54321/hls/14/index.m3u8
-CCTV-12,http://1.31.14.70:54321/hls/12/index.m3u8
 
 📡卫视频道,#genre#
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
