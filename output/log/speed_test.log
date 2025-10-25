@@ -1,6 +1,5 @@
-Name: 经典电影, URL: https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40, From: subscribe, IPv_Type: ipv4, Location: 美国, ISP: CloudFlare节点, Date: None, Delay: 33 ms, Speed: 9.33 M/s, Resolution: 1920x1080
-Name: TVBS亚洲, URL: http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-加利福尼亚州-洛杉矶, ISP: Cogent, Date: None, Delay: 817 ms, Speed: 1.94 M/s, Resolution: 1920x1080
-Name: IPTV经典电影, URL: http://113.88.211.3:9898/hls/71/index.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-深圳, ISP: 电信, Date: None, Delay: 1792 ms, Speed: 0.95 M/s, Resolution: 1920x1080
-Name: 北京卫视, URL: http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-德克萨斯州-达拉斯, ISP: 网宿科技CDN节点, Date: None, Delay: 137 ms, Speed: 0.71 M/s, Resolution: None
-Name: CCTV-9, URL: http://218.19.109.221:808/hls/5/index.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-广州, ISP: 电信, Date: None, Delay: 4896 ms, Speed: 1.59 M/s, Resolution: 1920x1080
-Name: CCTV-4, URL: http://218.19.109.221:808/hls/3/index.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-广州, ISP: 电信, Date: None, Delay: 10266 ms, Speed: 0.82 M/s, Resolution: 1920x1080
+Name: 经典电影, URL: https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40, From: subscribe, IPv_Type: ipv4, Location: 美国, ISP: CloudFlare节点, Date: None, Delay: 19 ms, Speed: 16.51 M/s, Resolution: 1920x1080
+Name: TVBS亚洲, URL: http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-加利福尼亚州-洛杉矶, ISP: Cogent, Date: None, Delay: 2552 ms, Speed: 0.44 M/s, Resolution: 1920x1080
+Name: IPTV经典电影, URL: http://113.88.211.3:9898/hls/71/index.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-深圳, ISP: 电信, Date: None, Delay: 2295 ms, Speed: 0.75 M/s, Resolution: 1920x1080
+Name: 北京卫视, URL: http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-德克萨斯州-达拉斯, ISP: 网宿科技CDN节点, Date: None, Delay: 5 ms, Speed: 17.71 M/s, Resolution: None
+Name: CCTV-9, URL: http://218.19.109.221:808/hls/5/index.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-广州, ISP: 电信, Date: None, Delay: 10344 ms, Speed: 0.05 M/s, Resolution: 1920x1080
