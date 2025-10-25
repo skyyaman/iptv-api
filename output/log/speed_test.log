@@ -1,12 +1,4 @@
-Name: TVBS亚洲, URL: http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-加利福尼亚州-洛杉矶, ISP: Cogent, Date: None, Delay: 2165 ms, Speed: 0.53 M/s, Resolution: 1920x1080
-Name: 经典电影, URL: https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40, From: subscribe, IPv_Type: ipv4, Location: 美国, ISP: CloudFlare节点, Date: None, Delay: 276 ms, Speed: 1.11 M/s, Resolution: 1920x1080
-Name: 北京卫视, URL: http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-德克萨斯州-达拉斯, ISP: 网宿科技CDN节点, Date: None, Delay: 67 ms, Speed: 1.45 M/s, Resolution: None
-Name: IPTV经典电影, URL: http://113.88.211.3:9898/hls/71/index.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-深圳, ISP: 电信, Date: None, Delay: 1821 ms, Speed: 0.92 M/s, Resolution: 1920x1080
-Name: 江苏卫视, URL: http://1.31.14.70:54321/hls/3/index.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-内蒙古-赤峰, ISP: 联通, Date: None, Delay: 10545 ms, Speed: 0.39 M/s, Resolution: 1920x1080
-Name: CCTV-5, URL: http://1.31.14.70:54321/hls/7/index.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-内蒙古-赤峰, ISP: 联通, Date: None, Delay: 10561 ms, Speed: 0.29 M/s, Resolution: 1920x1080
-Name: CCTV-6, URL: http://1.31.14.70:54321/hls/8/index.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-内蒙古-赤峰, ISP: 联通, Date: None, Delay: 10574 ms, Speed: 0.25 M/s, Resolution: 1920x1080
-Name: 河北卫视, URL: http://1.31.14.70:54321/hls/18/index.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-内蒙古-赤峰, ISP: 联通, Date: None, Delay: 10595 ms, Speed: 0.08 M/s, Resolution: 1920x1080
-Name: 东方卫视, URL: http://1.31.14.70:54321/hls/27/index.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-内蒙古-赤峰, ISP: 联通, Date: None, Delay: 10605 ms, Speed: 0.17 M/s, Resolution: 1920x1080
-Name: 湖北卫视, URL: http://1.31.14.70:54321/hls/39/index.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-内蒙古-赤峰, ISP: 联通, Date: None, Delay: 10609 ms, Speed: 0.27 M/s, Resolution: 1920x1080
-Name: 四川卫视, URL: http://1.31.14.70:54321/hls/41/index.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-内蒙古-赤峰, ISP: 联通, Date: None, Delay: 10617 ms, Speed: 0.14 M/s, Resolution: 1920x1080
-Name: 内蒙古卫视, URL: http://1.31.14.70:54321/hls/55/index.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-内蒙古-赤峰, ISP: 联通, Date: None, Delay: 10623 ms, Speed: 0.30 M/s, Resolution: 1920x1080
+Name: 经典电影, URL: https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40, From: subscribe, IPv_Type: ipv4, Location: 美国, ISP: CloudFlare节点, Date: None, Delay: 69 ms, Speed: 4.49 M/s, Resolution: 1920x1080
+Name: TVBS亚洲, URL: http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-加利福尼亚州-洛杉矶, ISP: Cogent, Date: None, Delay: 1858 ms, Speed: 0.64 M/s, Resolution: 1920x1080
+Name: IPTV经典电影, URL: http://113.88.211.3:9898/hls/71/index.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-深圳, ISP: 电信, Date: None, Delay: 1885 ms, Speed: 0.89 M/s, Resolution: 1920x1080
+Name: 北京卫视, URL: http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-德克萨斯州-达拉斯, ISP: 网宿科技CDN节点, Date: None, Delay: 66 ms, Speed: 1.45 M/s, Resolution: None
