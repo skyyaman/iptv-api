@@ -1,5 +1,5 @@
-Name: 经典电影, URL: https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40, From: subscribe, IPv_Type: ipv4, Location: 美国, ISP: CloudFlare节点, Date: None, Delay: 19 ms, Speed: 16.36 M/s, Resolution: 1920x1080
-Name: IPTV经典电影, URL: http://113.88.211.3:9898/hls/71/index.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-深圳, ISP: 电信, Date: None, Delay: 2267 ms, Speed: 0.77 M/s, Resolution: 1920x1080
-Name: TVBS亚洲, URL: http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-加利福尼亚州-洛杉矶, ISP: Cogent, Date: None, Delay: 3578 ms, Speed: 0.44 M/s, Resolution: 1920x1080
-Name: 北京卫视, URL: http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-德克萨斯州-达拉斯, ISP: 网宿科技CDN节点, Date: None, Delay: 8 ms, Speed: 13.72 M/s, Resolution: None
-Name: 黑龙江卫视, URL: http://113.106.171.234:8899/rtp/239.20.0.91:3036, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-惠州, ISP: 电信, Date: None, Delay: 490 ms, Speed: 0.98 M/s, Resolution: 1920x1080
+Name: 经典电影, URL: https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40, From: subscribe, IPv_Type: ipv4, Location: 美国, ISP: CloudFlare节点, Date: None, Delay: 66 ms, Speed: 4.66 M/s, Resolution: 1920x1080
+Name: IPTV经典电影, URL: http://113.88.211.3:9898/hls/71/index.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-深圳, ISP: 电信, Date: None, Delay: 1832 ms, Speed: 0.93 M/s, Resolution: 1920x1080
+Name: TVBS亚洲, URL: http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-加利福尼亚州-洛杉矶, ISP: Cogent, Date: None, Delay: 2722 ms, Speed: 0.63 M/s, Resolution: 1920x1080
+Name: 北京卫视, URL: http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-德克萨斯州-达拉斯, ISP: 网宿科技CDN节点, Date: None, Delay: 66 ms, Speed: 1.43 M/s, Resolution: None
+Name: 黑龙江卫视, URL: http://113.106.171.234:8899/rtp/239.20.0.91:3036, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-惠州, ISP: 电信, Date: None, Delay: 418 ms, Speed: 1.21 M/s, Resolution: 1920x1080
