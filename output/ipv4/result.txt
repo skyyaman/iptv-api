@@ -1,7 +1,9 @@
 🕘️更新时间,#genre#
-2025-10-28 20:32:07,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+2025-10-29 00:26:19,http://124.128.73.58:9901/tsfile/live/0004_1.m3u8?key=txiptv
 
 📺央视频道,#genre#
+CCTV-4,http://124.128.73.58:9901/tsfile/live/0004_1.m3u8?key=txiptv
+CCTV-11,http://124.128.73.58:9901/tsfile/live/0011_1.m3u8?key=txiptv
 
 📡卫视频道,#genre#
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
