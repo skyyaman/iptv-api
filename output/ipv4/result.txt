@@ -1,11 +1,24 @@
 🕘️更新时间,#genre#
-2025-10-28 09:14:29,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+2025-10-28 12:21:41,http://sh.lnott.top:880/dx07.m3u8
 
 📺央视频道,#genre#
+CCTV-7,http://sh.lnott.top:880/dx07.m3u8
+CCTV-15,http://sh.lnott.top:880/dx15.m3u8
 
 📡卫视频道,#genre#
+北京卫视,http://sh.lnott.top:880/dx29.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 黑龙江卫视,http://113.106.171.234:8899/rtp/239.20.0.91:3036
+海南卫视,http://sh.lnott.top:880/dx58.m3u8
+海南卫视,http://113.106.171.234:8899/rtp/239.20.0.155:2108
+海南卫视,http://218.8.87.96:4000/rtp/229.58.190.141:5000
+河北卫视,http://sh.lnott.top:880/dx63.m3u8
+宁夏卫视,http://sh.lnott.top:880/dx53.m3u8
+山东卫视,http://sh.lnott.top:880/dx38.m3u8
+陕西卫视,http://113.106.171.234:8899/rtp/239.20.0.151:2100
+四川卫视,http://sh.lnott.top:880/dx45.m3u8
+西藏卫视,http://sh.lnott.top:880/dx57.m3u8
+云南卫视,http://111.221.137.155:44330/tsfile/live/0116_1.m3u8?key=txiptv
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 
 🎬电影频道,#genre#
