@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-29 04:18:48,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+2025-10-29 09:13:32,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 
 📺央视频道,#genre#
 
