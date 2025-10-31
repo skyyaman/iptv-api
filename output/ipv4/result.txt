@@ -1,11 +1,18 @@
 🕘️更新时间,#genre#
-2025-10-31 09:09:01,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+2025-10-31 12:19:59,https://httop.top/hrtn-cetv1
 
 📺央视频道,#genre#
+CETV-1,https://httop.top/hrtn-cetv1
+CETV-1,http://116.179.149.157:6000/rtp/226.0.2.181:9360
+CETV-2,http://116.179.149.157:6000/rtp/226.0.2.69:8464
+CETV-4,http://116.179.149.157:6000/rtp/226.0.2.70:8472
 
 📡卫视频道,#genre#
+浙江卫视,http://111.221.137.155:44330/tsfile/live/0131_1.m3u8?key=txiptv
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 黑龙江卫视,http://113.106.171.234:8899/rtp/239.20.0.91:3036
+江苏卫视,http://111.221.137.155:44330/tsfile/live/0135_1.m3u8?key=txiptv
+陕西卫视,http://111.127.157.178:51234/rtp/239.29.1.86:5001
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 
 🎬电影频道,#genre#
