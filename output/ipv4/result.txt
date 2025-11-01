@@ -1,18 +1,11 @@
 🕘️更新时间,#genre#
-2025-11-01 12:16:30,http://113.106.171.234:8899/rtp/239.20.0.236:2270
+2025-11-01 16:18:25,http://116.179.149.157:6000/rtp/226.0.2.181:9360
 
 📺央视频道,#genre#
-CCTV-3,http://113.106.171.234:8899/rtp/239.20.0.236:2270
-CCTV-9,http://sh.lnott.top:880/dx09.m3u8
-CCTV-12,http://111.221.137.155:44330/tsfile/live/0012_1.m3u8?key=txiptv
-CCTV-13,http://sh.lnott.top:880/dx13.m3u8
-CCTV-13,http://111.221.137.155:44330/tsfile/live/0013_1.m3u8?key=txiptv
 CETV-1,http://116.179.149.157:6000/rtp/226.0.2.181:9360
 
 📡卫视频道,#genre#
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-东方卫视,http://sh.lnott.top:880/dx35.m3u8
-云南卫视,http://sh.lnott.top:880/dx49.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 
 🎬电影频道,#genre#
