@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251101122813 +0800">
+<tv date="20251101161552 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -3711,13 +3711,16 @@
 	<programme channel="广西卫视" start="20251101205000 +0800" stop="20251101214000 +0800">
 		<title lang="zh">美丽剧场38集：暗夜与黎明(29)</title>
 	</programme>
-	<programme channel="广西卫视" start="20251101214000 +0800" stop="20251101230000 +0800">
-		<title lang="zh">首播：2025桂林艺术节开幕式</title>
+	<programme channel="广西卫视" start="20251101214000 +0800" stop="20251101220500 +0800">
+		<title lang="zh">首播：广西故事</title>
 	</programme>
-	<programme channel="广西卫视" start="20251101230000 +0800" stop="20251101234000 +0800">
+	<programme channel="广西卫视" start="20251101220500 +0800" stop="20251101224000 +0800">
+		<title lang="zh">百寿探秘（精编版）</title>
+	</programme>
+	<programme channel="广西卫视" start="20251101224000 +0800" stop="20251101233000 +0800">
 		<title lang="zh">传奇剧场33集：再造之恩(33)完</title>
 	</programme>
-	<programme channel="广西卫视" start="20251101234000 +0800" stop="20251101235900 +0800">
+	<programme channel="广西卫视" start="20251101233000 +0800" stop="20251101235900 +0800">
 		<title lang="zh">传奇剧场39集：飞虎队(1)</title>
 	</programme>
 	<channel id="新疆卫视">
