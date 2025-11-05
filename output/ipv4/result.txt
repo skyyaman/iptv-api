@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-05 16:23:55,http://171.116.216.113:10010/rtp/226.0.1.157:3086
+2025-11-05 20:31:45,http://171.116.216.113:10010/rtp/226.0.1.157:3086
 
 📺央视频道,#genre#
 CCTV-1,http://171.116.216.113:10010/rtp/226.0.1.157:3086
@@ -8,8 +8,6 @@ CETV-1,http://116.179.149.157:6000/rtp/226.0.2.181:9360
 📡卫视频道,#genre#
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-江苏卫视,http://xtvantsc.xyz/Smart.php?id=jiangsu_twn
-四川卫视,http://xtvantsc.xyz/Smart.php?id=sichuan_twn
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 
 🎬电影频道,#genre#
