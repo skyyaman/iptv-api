@@ -1,8 +1,7 @@
-Name: 经典电影, URL: https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40, From: subscribe, IPv_Type: ipv4, Location: 美国, ISP: CloudFlare节点, Date: None, Delay: 15 ms, Speed: 20.61 M/s, Resolution: 1920x1080
-Name: TVBS亚洲, URL: http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-加利福尼亚州-洛杉矶, ISP: Cogent, Date: None, Delay: 607 ms, Speed: 1.98 M/s, Resolution: 1920x1080
-Name: IPTV经典电影, URL: http://113.88.211.3:9898/hls/71/index.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-深圳, ISP: 电信, Date: None, Delay: 1763 ms, Speed: 0.97 M/s, Resolution: 1920x1080
-Name: 北京卫视, URL: http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-德克萨斯州-达拉斯, ISP: 网宿科技CDN节点, Date: None, Delay: 34 ms, Speed: 2.81 M/s, Resolution: None
-Name: 湖南卫视, URL: http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-伊利诺伊州-库克, ISP: 网宿CDN节点, Date: None, Delay: 35 ms, Speed: 2.78 M/s, Resolution: None
-Name: CCTV-1, URL: http://171.116.216.113:10010/rtp/226.0.1.157:3086, From: subscribe, IPv_Type: ipv4, Location: 中国-山西-太原, ISP: 联通, Date: None, Delay: 442 ms, Speed: 0.20 M/s, Resolution: 1920x1080
-Name: CETV-1, URL: http://171.116.216.113:10010/rtp/226.0.2.181:9360, From: subscribe, IPv_Type: ipv4, Location: 中国-山西-太原, ISP: 联通, Date: None, Delay: 407 ms, Speed: 0.14 M/s, Resolution: 1920x1080
-Name: CETV-1, URL: http://223.10.81.133:8888/rtp/239.1.1.65:8065, From: subscribe, IPv_Type: ipv4, Location: 中国-山西-吕梁, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 经典电影, URL: https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40, From: subscribe, IPv_Type: ipv4, Location: 美国, ISP: CloudFlare节点, Date: None, Delay: 18 ms, Speed: 16.86 M/s, Resolution: 1920x1080
+Name: TVBS亚洲, URL: http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-加利福尼亚州-洛杉矶, ISP: Cogent, Date: None, Delay: 2802 ms, Speed: 0.40 M/s, Resolution: 1920x1080
+Name: IPTV经典电影, URL: http://113.88.211.3:9898/hls/71/index.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-深圳, ISP: 电信, Date: None, Delay: 2291 ms, Speed: 0.75 M/s, Resolution: 1920x1080
+Name: 湖南卫视, URL: http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-伊利诺伊州-库克, ISP: 网宿CDN节点, Date: None, Delay: 8 ms, Speed: 13.58 M/s, Resolution: None
+Name: 北京卫视, URL: http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-德克萨斯州-达拉斯, ISP: 网宿科技CDN节点, Date: None, Delay: 7 ms, Speed: 13.23 M/s, Resolution: None
+Name: CCTV-1, URL: http://171.116.216.113:10010/rtp/226.0.1.157:3086, From: subscribe, IPv_Type: ipv4, Location: 中国-山西-太原, ISP: 联通, Date: None, Delay: 520 ms, Speed: 0.05 M/s, Resolution: 1920x1080
+Name: CETV-1, URL: http://171.116.216.113:10010/rtp/226.0.2.181:9360, From: subscribe, IPv_Type: ipv4, Location: 中国-山西-太原, ISP: 联通, Date: None, Delay: 506 ms, Speed: 0.04 M/s, Resolution: 1920x1080
