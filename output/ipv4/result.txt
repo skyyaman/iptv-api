@@ -1,10 +1,11 @@
 🕘️更新时间,#genre#
-2025-11-22 09:07:18,http://183.184.47.145:8001/rtp/226.0.2.181:9360
+2025-11-22 12:17:58,http://183.184.47.145:8001/rtp/226.0.2.181:9360
 
 📺央视频道,#genre#
 CETV-1,http://183.184.47.145:8001/rtp/226.0.2.181:9360
 
 📡卫视频道,#genre#
+浙江卫视,http://60.16.0.216:5757/hls/22/index.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 
