@@ -1,25 +1,15 @@
 🕘️更新时间,#genre#
-2025-11-25 16:22:55,http://ygbh.site/php/bfgd.php?id=484
+2025-11-25 20:32:29,http://144.255.32.94:8288/rtp/239.21.2.3:5002
 
 📺央视频道,#genre#
-CCTV-1,http://ygbh.site/php/bfgd.php?id=484
-CCTV-1,http://112.132.10.54:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-4,http://183.220.107.138:4022/rtp/239.11.0.109:5140
-CCTV-12,http://183.220.107.138:4022/rtp/239.11.0.113:5140
 CCTV-13,http://144.255.32.94:8288/rtp/239.21.2.3:5002
-CCTV-14,http://tnvcn.com:8012/rtp/239.3.1.65:8132
-CCTV-15,http://tnvcn.com:8012/rtp/239.3.1.153:8136
-CCTV-17,http://183.220.107.138:4022/rtp/239.11.0.107:5140
 CETV-1,http://183.184.47.145:8001/rtp/226.0.2.181:9360
 CETV-1,http://144.255.32.94:8288/rtp/239.21.2.7:5002
 
 📡卫视频道,#genre#
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-重庆卫视,http://183.220.107.138:4022/rtp/239.11.0.116:5140
-吉林卫视,http://tnvcn.com:8012/rtp/239.3.1.240:8172
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 
 🎬电影频道,#genre#
 经典电影,https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40
 IPTV经典电影,http://tnvcn.com:8012/rtp/239.3.1.195:9024
-IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
