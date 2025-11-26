@@ -1,20 +1,17 @@
 🕘️更新时间,#genre#
-2025-11-26 20:33:19,http://223.167.230.235:4022/rtp/239.45.3.208:5140
+2025-11-27 00:20:28,http://223.167.230.235:4022/rtp/239.45.3.208:5140
 
 📺央视频道,#genre#
 CCTV-2,http://223.167.230.235:4022/rtp/239.45.3.208:5140
 CCTV-5+,http://tnvcn.com:8012/rtp/239.3.1.130:8004
 CCTV-13,http://144.255.32.94:8288/rtp/239.21.2.3:5002
-CETV-1,http://218.60.86.8:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/.m3u8
+CETV-1,http://218.60.86.8:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226925/.m3u8
 CETV-1,http://183.184.47.145:8001/rtp/226.0.2.181:9360
-CETV-4,http://218.60.86.8:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226362/.m3u8
 
 📡卫视频道,#genre#
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-辽宁卫视,http://1.58.246.115:4001/rtp/229.58.190.146:5000
-宁夏卫视,http://1.58.246.115:4001/rtp/229.58.190.184:5000
 
 🎬电影频道,#genre#
 经典电影,https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40
-IPTV经典电影,http://tnvcn.com:8012/rtp/239.3.1.195:9024
 IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
+IPTV经典电影,http://tnvcn.com:8012/rtp/239.3.1.195:9024
