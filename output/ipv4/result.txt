@@ -1,37 +1,16 @@
 🕘️更新时间,#genre#
-2025-11-28 12:20:11,http://183.220.107.138:4022/rtp/239.11.0.130:5140
+2025-11-28 16:22:05,http://60.13.52.236:65500/newlive/live/hls/3/live.m3u8
 
 📺央视频道,#genre#
-CCTV-1,http://183.220.107.138:4022/rtp/239.11.0.130:5140
 CCTV-3,http://60.13.52.236:65500/newlive/live/hls/3/live.m3u8
-CCTV-4,http://1.58.246.115:4001/rtp/229.58.190.131:5000
-CCTV-5+,http://tnvcn.com:8012/rtp/239.3.1.130:8004
-CCTV-6,http://120.40.39.246:352/newlive/live/hls/7/live.m3u8
-CCTV-7,http://120.40.39.246:352/newlive/live/hls/8/live.m3u8
-CCTV-8,http://120.40.39.246:352/newlive/live/hls/9/live.m3u8
-CCTV-9,http://120.40.39.246:352/newlive/live/hls/10/live.m3u8
 CCTV-13,http://144.255.32.94:8288/rtp/239.21.2.3:5002
-CETV-1,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/.m3u8
 CETV-1,http://113.25.107.142:10000/rtp/239.1.1.65:8065
 CETV-1,http://171.119.206.232:6000/rtp/226.0.2.181:9360
-CETV-2,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226537/.m3u8
-CETV-4,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226557/.m3u8
+CETV-1,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226538/.m3u8
+CETV-4,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226362/.m3u8
 
 📡卫视频道,#genre#
-广东卫视,http://112.123.243.37:50085/tsfile/live/0135_1.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-湖北卫视,http://60.13.52.236:65500/newlive/live/hls/26/live.m3u8
-黑龙江卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226965/1.m3u8
-河南卫视,http://60.13.52.236:65500/newlive/live/hls/39/live.m3u8
-江苏卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226953/1.m3u8
-江苏卫视,http://61.184.46.85:9901/tsfile/live/1005_1.m3u8?key=txiptv
-青海卫视,http://1.58.246.115:4001/rtp/229.58.190.149:5000
-青海卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221227017/1.m3u8
-山东卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226957/1.m3u8
-四川卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226995/1.m3u8
-深圳卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226245/1.m3u8
-天津卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226954/1.m3u8
 
 🎬电影频道,#genre#
 经典电影,https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40
-IPTV经典电影,http://tnvcn.com:8012/rtp/239.3.1.195:9024
