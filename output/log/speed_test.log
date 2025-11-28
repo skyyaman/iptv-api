@@ -1,5 +1,4 @@
-Name: 经典电影, URL: https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40, From: subscribe, IPv_Type: ipv4, Location: 美国, ISP: CloudFlare节点, Date: None, Delay: 13 ms, Speed: 23.32 M/s, Resolution: 1920x1080
-Name: CETV-1, URL: http://113.25.107.142:10000/rtp/239.1.1.65:8065, From: subscribe, IPv_Type: ipv4, Location: 中国-山西-太原, ISP: 电信, Date: None, Delay: 458 ms, Speed: 0.02 M/s, Resolution: 1920x1080
-Name: IPTV经典电影, URL: http://tnvcn.com:8012/rtp/239.3.1.195:9024, From: subscribe, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 联通, Date: None, Delay: 398 ms, Speed: 0.21 M/s, Resolution: 1920x1080
-Name: 北京卫视, URL: http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-德克萨斯州-达拉斯, ISP: 网宿科技CDN节点, Date: None, Delay: 58 ms, Speed: 1.66 M/s, Resolution: None
-Name: CETV-4, URL: http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-河北-廊坊, ISP: 电信, Date: None, Delay: 6028 ms, Speed: 0.87 M/s, Resolution: 720x576
+Name: 经典电影, URL: https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40, From: subscribe, IPv_Type: ipv4, Location: 美国, ISP: CloudFlare节点, Date: None, Delay: 62 ms, Speed: 4.94 M/s, Resolution: 1920x1080
+Name: IPTV经典电影, URL: http://tnvcn.com:8012/rtp/239.3.1.195:9024, From: subscribe, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 联通, Date: None, Delay: 465 ms, Speed: 0.04 M/s, Resolution: 1920x1080
+Name: CETV-1, URL: http://113.25.107.142:10000/rtp/239.1.1.65:8065, From: subscribe, IPv_Type: ipv4, Location: 中国-山西-太原, ISP: 电信, Date: None, Delay: 479 ms, Speed: 0.03 M/s, Resolution: 1920x1080
+Name: 北京卫视, URL: http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-德克萨斯州-达拉斯, ISP: 网宿科技CDN节点, Date: None, Delay: 140 ms, Speed: 0.66 M/s, Resolution: None
