@@ -1,11 +1,8 @@
 🕘️更新时间,#genre#
-2025-11-28 20:31:43,http://60.13.52.236:65500/newlive/live/hls/3/live.m3u8
+2025-11-29 00:19:14,http://113.25.107.142:10000/rtp/239.1.1.65:8065
 
 📺央视频道,#genre#
-CCTV-3,http://60.13.52.236:65500/newlive/live/hls/3/live.m3u8
-CCTV-13,http://144.255.32.94:8288/rtp/239.21.2.3:5002
 CETV-1,http://113.25.107.142:10000/rtp/239.1.1.65:8065
-CETV-1,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226925/.m3u8
 CETV-4,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/.m3u8
 
 📡卫视频道,#genre#
@@ -14,5 +11,3 @@ CETV-4,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3
 🎬电影频道,#genre#
 经典电影,https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40
 IPTV经典电影,http://tnvcn.com:8012/rtp/239.3.1.195:9024
-IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
-IPTV经典电影,http://144.255.32.94:8288/rtp/239.21.1.124:5002
