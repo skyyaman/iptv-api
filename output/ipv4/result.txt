@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-01 04:17:17,http://pull-skycorp.speedws.com/live/ft4Fc0PGDbG0WWFgXQNsNRHYYunA1tsr7a7BcSEpS7mJEWwX0jK.flv
+2025-12-01 09:23:52,http://pull-skycorp.speedws.com/live/ft4Fc0PGDbG0WWFgXQNsNRHYYunA1tsr7a7BcSEpS7mJEWwX0jK.flv
 
 📺央视频道,#genre#
 CCTV-1,http://pull-skycorp.speedws.com/live/ft4Fc0PGDbG0WWFgXQNsNRHYYunA1tsr7a7BcSEpS7mJEWwX0jK.flv
@@ -8,8 +8,8 @@ CCTV-3,http://pull-skycorp.speedws.com/live/hbhyTVJFSgCenD0L9fpHmPCFf9duofVKizVp
 CCTV-4,http://pull-skycorp.speedws.com/live/SbKIYMAVfGY0Nq5LEW4SRUDn0NNsNRHYAG166MYUo9TSyI9UUqn.flv
 CCTV-13,http://pull-skycorp.speedws.com/live/LGir9TM1r4L8cYYb8M6Yfwomw9o9lvl0awONsNRHYLWazSU1kmL.flv
 CCTV-14,http://pull-skycorp.speedws.com/live/pyRhADNsNRHYlBACWdbgXVyOiRupG30JAzROyRtO5gX5E4fZWJ7.flv
-CETV-1,http://113.25.107.142:10000/rtp/239.1.1.65:8065
 CETV-1,http://222.212.84.190:54123/rtp/239.93.1.111:5140
+CETV-1,http://113.25.107.142:10000/rtp/239.1.1.65:8065
 CETV-1,http://a.402089.xyz:4022/rtp/233.50.200.169:5140
 
 📡卫视频道,#genre#
