@@ -1,16 +1,13 @@
 🕘️更新时间,#genre#
-2025-12-03 16:22:54,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226906/.m3u8
+2025-12-03 20:33:06,http://113.25.107.142:10000/rtp/239.1.1.65:8065
 
 📺央视频道,#genre#
-CCTV-7,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226906/.m3u8
 CETV-1,http://113.25.107.142:10000/rtp/239.1.1.65:8065
 CETV-1,http://a.402089.xyz:4022/rtp/233.50.200.169:5140
 
 📡卫视频道,#genre#
 广东卫视,http://183.238.86.52:4022/rtp/239.10.0.111:1025
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-北京卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226441/.m3u8
-深圳卫视,http://183.238.86.52:4022/rtp/239.10.0.52:1025
 
 🎬电影频道,#genre#
 经典电影,https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40
