@@ -1,5 +1,5 @@
-Name: 经典电影, URL: https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40, From: subscribe, IPv_Type: ipv4, Location: 美国, ISP: CloudFlare节点, Date: None, Delay: 20 ms, Speed: 15.06 M/s, Resolution: 1920x1080
-Name: 北京卫视, URL: http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-德克萨斯州-达拉斯, ISP: 网宿科技CDN节点, Date: None, Delay: 25 ms, Speed: 3.72 M/s, Resolution: None
-Name: IPTV经典电影, URL: http://183.220.107.138:4022/rtp/239.10.0.122:5140, From: subscribe, IPv_Type: ipv4, Location: 中国-四川-成都, ISP: 移动, Date: None, Delay: 497 ms, Speed: 0.28 M/s, Resolution: 1920x1080
-Name: CCTV-1, URL: http://a.402089.xyz:4022/rtp/233.50.200.143:5140, From: subscribe, IPv_Type: ipv4, Location: 中国-浙江-杭州, ISP: 电信, Date: None, Delay: 747 ms, Speed: 0.38 M/s, Resolution: 1920x1080
-Name: CETV-1, URL: http://a.402089.xyz:4022/rtp/233.50.200.169:5140, From: subscribe, IPv_Type: ipv4, Location: 中国-浙江, ISP: 电信, Date: None, Delay: 738 ms, Speed: 0.18 M/s, Resolution: 1920x1080
+Name: 经典电影, URL: https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40, From: subscribe, IPv_Type: ipv4, Location: 美国, ISP: CloudFlare节点, Date: None, Delay: 12 ms, Speed: 25.77 M/s, Resolution: 1920x1080
+Name: 北京卫视, URL: http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-德克萨斯州-达拉斯, ISP: 网宿科技CDN节点, Date: None, Delay: 8 ms, Speed: 11.99 M/s, Resolution: None
+Name: IPTV经典电影, URL: http://183.220.107.138:4022/rtp/239.10.0.122:5140, From: subscribe, IPv_Type: ipv4, Location: 中国-四川-成都, ISP: 移动, Date: None, Delay: 459 ms, Speed: 0.28 M/s, Resolution: 1920x1080
+Name: CETV-1, URL: http://a.402089.xyz:4022/rtp/233.50.200.169:5140, From: subscribe, IPv_Type: ipv4, Location: 中国-浙江, ISP: 电信, Date: None, Delay: 774 ms, Speed: 0.47 M/s, Resolution: 1920x1080
+Name: CCTV-1, URL: http://a.402089.xyz:4022/rtp/233.50.200.143:5140, From: subscribe, IPv_Type: ipv4, Location: 中国-浙江-杭州, ISP: 电信, Date: None, Delay: 733 ms, Speed: 0.40 M/s, Resolution: 1920x1080
