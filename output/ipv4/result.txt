@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-13 16:20:24,http://a.402089.xyz:4022/rtp/233.50.200.143:5140
+2025-12-13 20:29:36,http://a.402089.xyz:4022/rtp/233.50.200.143:5140
 
 📺央视频道,#genre#
 CCTV-1,http://a.402089.xyz:4022/rtp/233.50.200.143:5140
@@ -10,7 +10,6 @@ CETV-1,http://a.402089.xyz:4022/rtp/233.50.200.169:5140
 📡卫视频道,#genre#
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
-青海卫视,http://115.48.161.66:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
 
 🎬电影频道,#genre#
 经典电影,https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40
