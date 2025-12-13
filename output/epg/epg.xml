@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251213122936 +0800">
+<tv date="20251213161845 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -3813,52 +3813,52 @@
 	<channel id="新疆卫视">
 		<display-name lang="zh">新疆卫视</display-name>
 	</channel>
-	<programme channel="新疆卫视" start="20251213001600 +0800" stop="20251213004500 +0800">
+	<programme channel="新疆卫视" start="20251213001200 +0800" stop="20251213004500 +0800">
 		<title lang="zh">真实纪录</title>
 	</programme>
-	<programme channel="新疆卫视" start="20251213004500 +0800" stop="20251213013100 +0800">
+	<programme channel="新疆卫视" start="20251213004500 +0800" stop="20251213013400 +0800">
 		<title lang="zh">城中之城(37)</title>
 	</programme>
-	<programme channel="新疆卫视" start="20251213013100 +0800" stop="20251213021700 +0800">
+	<programme channel="新疆卫视" start="20251213013400 +0800" stop="20251213022200 +0800">
 		<title lang="zh">城中之城(38)</title>
 	</programme>
-	<programme channel="新疆卫视" start="20251213021700 +0800" stop="20251213030300 +0800">
+	<programme channel="新疆卫视" start="20251213022200 +0800" stop="20251213030900 +0800">
 		<title lang="zh">城中之城(39)</title>
 	</programme>
-	<programme channel="新疆卫视" start="20251213030300 +0800" stop="20251213035000 +0800">
+	<programme channel="新疆卫视" start="20251213030900 +0800" stop="20251213035600 +0800">
 		<title lang="zh">城中之城(40)</title>
 	</programme>
-	<programme channel="新疆卫视" start="20251213035000 +0800" stop="20251213040800 +0800">
-		<title lang="zh">新疆·面孔</title>
+	<programme channel="新疆卫视" start="20251213035600 +0800" stop="20251213041200 +0800">
+		<title lang="zh">我们都是追梦人:新疆·面孔</title>
 	</programme>
-	<programme channel="新疆卫视" start="20251213040800 +0800" stop="20251213043100 +0800">
+	<programme channel="新疆卫视" start="20251213041200 +0800" stop="20251213043000 +0800">
 		<title lang="zh">法在身边</title>
 	</programme>
-	<programme channel="新疆卫视" start="20251213043100 +0800" stop="20251213052900 +0800">
+	<programme channel="新疆卫视" start="20251213043000 +0800" stop="20251213050100 +0800">
 		<title lang="zh">真实纪录</title>
 	</programme>
-	<programme channel="新疆卫视" start="20251213052900 +0800" stop="20251213061900 +0800">
+	<programme channel="新疆卫视" start="20251213050100 +0800" stop="20251213053300 +0800">
+		<title lang="zh">真实纪录</title>
+	</programme>
+	<programme channel="新疆卫视" start="20251213053300 +0800" stop="20251213061800 +0800">
 		<title lang="zh">走向大西南(1)</title>
 	</programme>
-	<programme channel="新疆卫视" start="20251213061900 +0800" stop="20251213070900 +0800">
+	<programme channel="新疆卫视" start="20251213061800 +0800" stop="20251213070200 +0800">
 		<title lang="zh">走向大西南(2)</title>
 	</programme>
-	<programme channel="新疆卫视" start="20251213070900 +0800" stop="20251213075900 +0800">
+	<programme channel="新疆卫视" start="20251213070200 +0800" stop="20251213080000 +0800">
 		<title lang="zh">走向大西南(3)</title>
-	</programme>
-	<programme channel="新疆卫视" start="20251213075900 +0800" stop="20251213080000 +0800">
-		<title lang="zh">中华人民共和国国歌</title>
 	</programme>
 	<programme channel="新疆卫视" start="20251213080000 +0800" stop="20251213083200 +0800">
 		<title lang="zh">新疆新闻联播</title>
 	</programme>
-	<programme channel="新疆卫视" start="20251213083200 +0800" stop="20251213084400 +0800">
+	<programme channel="新疆卫视" start="20251213083200 +0800" stop="20251213084200 +0800">
 		<title lang="zh">今日聚焦</title>
 	</programme>
-	<programme channel="新疆卫视" start="20251213084400 +0800" stop="20251213091100 +0800">
-		<title lang="zh">真实纪录</title>
+	<programme channel="新疆卫视" start="20251213084200 +0800" stop="20251213091200 +0800">
+		<title lang="zh">真实纪</title>
 	</programme>
-	<programme channel="新疆卫视" start="20251213091100 +0800" stop="20251213101500 +0800">
+	<programme channel="新疆卫视" start="20251213091200 +0800" stop="20251213101500 +0800">
 		<title lang="zh">亮剑(11)</title>
 	</programme>
 	<programme channel="新疆卫视" start="20251213101500 +0800" stop="20251213111900 +0800">
@@ -3882,16 +3882,16 @@
 	<programme channel="新疆卫视" start="20251213152700 +0800" stop="20251213163200 +0800">
 		<title lang="zh">大决战(41)</title>
 	</programme>
-	<programme channel="新疆卫视" start="20251213163200 +0800" stop="20251213173700 +0800">
+	<programme channel="新疆卫视" start="20251213163200 +0800" stop="20251213173500 +0800">
 		<title lang="zh">大决战(42)</title>
 	</programme>
-	<programme channel="新疆卫视" start="20251213173700 +0800" stop="20251213180500 +0800">
-		<title lang="zh">动画片</title>
+	<programme channel="新疆卫视" start="20251213173500 +0800" stop="20251213180100 +0800">
+		<title lang="zh">动画片:寻梦泡泡岛</title>
 	</programme>
-	<programme channel="新疆卫视" start="20251213180500 +0800" stop="20251213181200 +0800">
+	<programme channel="新疆卫视" start="20251213180100 +0800" stop="20251213180900 +0800">
 		<title lang="zh">国宝时刻</title>
 	</programme>
-	<programme channel="新疆卫视" start="20251213181200 +0800" stop="20251213182800 +0800">
+	<programme channel="新疆卫视" start="20251213180900 +0800" stop="20251213182800 +0800">
 		<title lang="zh">新疆·面孔</title>
 	</programme>
 	<programme channel="新疆卫视" start="20251213182800 +0800" stop="20251213185000 +0800">
@@ -5115,10 +5115,10 @@
 	<programme channel="甘肃卫视" start="20251213134300 +0800" stop="20251213140500 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
-	<programme channel="甘肃卫视" start="20251213140500 +0800" stop="20251213143200 +0800">
+	<programme channel="甘肃卫视" start="20251213140500 +0800" stop="20251213143300 +0800">
 		<title lang="zh">津门飞鹰(33)</title>
 	</programme>
-	<programme channel="甘肃卫视" start="20251213143200 +0800" stop="20251213145800 +0800">
+	<programme channel="甘肃卫视" start="20251213143300 +0800" stop="20251213145800 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
 	<programme channel="甘肃卫视" start="20251213145800 +0800" stop="20251213152500 +0800">
