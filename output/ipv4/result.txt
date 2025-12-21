@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-21 04:16:30,http://yp.qqqtv.top/1/api.php?id=CCTV-5%2BHD&auth=666858
+2025-12-21 09:19:19,http://yp.qqqtv.top/1/api.php?id=CCTV-5%2BHD&auth=666858
 
 📺央视频道,#genre#
 CCTV-5,http://yp.qqqtv.top/1/api.php?id=CCTV-5%2BHD&auth=666858
@@ -10,8 +10,8 @@ CCTV-15,http://yp.qqqtv.top/1/api.php?id=CCTV-15HD&auth=666858
 CCTV-17,http://yp.qqqtv.top/1/api.php?id=CCTV-17HD&auth=666858
 CETV-1,http://171.83.103.119:9999/rtp/239.69.1.110:10298
 CETV-1,http://112.254.55.106:22222/rtp/239.253.254.110:8000
-CETV-4,http://116.237.37.244:8888/rtp/239.45.1.243:5140
 CETV-4,http://171.83.103.119:9999/rtp/239.69.2.29:11328
+CETV-4,http://116.237.37.244:8888/rtp/239.45.1.243:5140
 CETV-4,http://112.254.55.106:22222/rtp/239.253.254.116:8000
 
 📡卫视频道,#genre#
