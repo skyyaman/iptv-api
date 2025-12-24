@@ -1,27 +1,16 @@
 🕘️更新时间,#genre#
-2025-12-24 16:23:46,http://play-hsbj.vzan.com/978354/446938712125478466/live.m3u8
+2025-12-24 20:32:58,http://yp.qqqtv.top/1/api.php?id=CCTV-5%2BHD&auth=666858
 
 📺央视频道,#genre#
-CCTV-1,http://play-hsbj.vzan.com/978354/446938712125478466/live.m3u8
-CCTV-1,http://175.8.28.207:9999/tsfile/live/0001_1.m3u8
-CCTV-2,http://175.8.28.207:9999/tsfile/live/0002_1.m3u8
-CCTV-3,http://175.8.28.207:9999/tsfile/live/0003_1.m3u8
-CCTV-4,http://175.8.28.207:9999/tsfile/live/0004_1.m3u8
 CCTV-5,http://yp.qqqtv.top/1/api.php?id=CCTV-5%2BHD&auth=666858
-CCTV-5,http://175.8.28.207:9999/tsfile/live/0005_1.m3u8
-CCTV-6,http://175.8.28.207:9999/tsfile/live/0006_1.m3u8
 CCTV-7,http://yp.qqqtv.top/1/api.php?id=CCTV-7HD&auth=666858
-CCTV-8,http://175.8.28.207:9999/tsfile/live/0008_1.m3u8
-CCTV-9,http://175.8.28.207:9999/tsfile/live/0009_1.m3u8
-CCTV-10,http://175.8.28.207:9999/tsfile/live/0010_1.m3u8
-CCTV-11,http://175.8.28.207:9999/tsfile/live/0011_1.m3u8
-CCTV-12,http://175.8.28.207:9999/tsfile/live/0012_1.m3u8
+CCTV-10,http://yp.qqqtv.top/1/api.php?id=CCTV-10%E7%A7%91%E6%95%99&auth=666858
 CCTV-15,http://yp.qqqtv.top/1/api.php?id=CCTV-15HD&auth=666858
 CCTV-17,http://yp.qqqtv.top/1/api.php?id=CCTV-17HD&auth=666858
 CETV-1,http://171.83.103.119:9999/rtp/239.69.1.110:10298
 CETV-1,http://112.254.55.106:22222/rtp/239.253.254.110:8000
-CETV-4,http://116.237.37.244:8888/rtp/239.45.1.243:5140
 CETV-4,http://171.83.103.119:9999/rtp/239.69.2.29:11328
+CETV-4,http://116.237.37.244:8888/rtp/239.45.1.243:5140
 CETV-4,http://112.254.55.106:22222/rtp/239.253.254.116:8000
 
 📡卫视频道,#genre#
@@ -36,7 +25,6 @@ CETV-4,http://112.254.55.106:22222/rtp/239.253.254.116:8000
 山东卫视,http://yp.qqqtv.top/1/api.php?id=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86HD&auth=666858
 山西卫视,http://yp.qqqtv.top/1/api.php?id=%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86HD&auth=666858
 深圳卫视,http://yp.qqqtv.top/1/api.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86HD&auth=666858
-天津卫视,http://yp.qqqtv.top/1/api.php?id=%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86&auth=666858
 西藏卫视,http://yp.qqqtv.top/1/api.php?id=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86&auth=666858
 
 🎬电影频道,#genre#
