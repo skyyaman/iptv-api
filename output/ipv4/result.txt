@@ -1,22 +1,15 @@
 🕘️更新时间,#genre#
-2026-01-01 16:22:53,http://yp.qqqtv.top/1/api.php?id=CCTV-7HD&auth=666858
+2026-01-01 20:33:21,http://112.254.55.106:22222/rtp/239.253.254.110:8000
 
 📺央视频道,#genre#
-CCTV-7,http://yp.qqqtv.top/1/api.php?id=CCTV-7HD&auth=666858
-CCTV-17,http://yp.qqqtv.top/1/api.php?id=CCTV-17HD&auth=666858
-CETV-1,http://171.83.103.119:9999/rtp/239.69.1.110:10298
 CETV-1,http://112.254.55.106:22222/rtp/239.253.254.110:8000
-CETV-4,http://171.83.103.119:9999/rtp/239.69.2.29:11328
+CETV-1,http://171.83.103.119:9999/rtp/239.69.1.110:10298
 CETV-4,http://112.254.55.106:22222/rtp/239.253.254.116:8000
+CETV-4,http://171.83.103.119:9999/rtp/239.69.2.29:11328
 
 📡卫视频道,#genre#
-湖南卫视,http://111.23.208.105:9908/tsfile/live/1059_1.m3u8
 湖北卫视,http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub
-湖北卫视,http://222.214.208.34:59901/tsfile/live/0132_1.m3u8
-广西卫视,http://yp.qqqtv.top/1/api.php?id=%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86HD&auth=666858
-河南卫视,http://yp.qqqtv.top/1/api.php?id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86HD&auth=666858
 江西卫视,http://222.214.208.34:59901/tsfile/live/0138_1.m3u8
-辽宁卫视,http://yp.qqqtv.top/1/api.php?id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86HD&auth=666858
 
 🎬电影频道,#genre#
 经典电影,https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40
