@@ -1,14 +1,12 @@
 🕘️更新时间,#genre#
-2026-01-08 20:35:59,http://yp.qqqtv.top/1/api.php?id=CCTV-1HD&auth=666858
+2026-01-09 00:24:09,http://yp.qqqtv.top/1/api.php?id=CCTV-1HD&auth=666858
 
 📺央视频道,#genre#
 CCTV-1,http://yp.qqqtv.top/1/api.php?id=CCTV-1HD&auth=666858
 CCTV-1,http://38.75.136.137:98/gslb/dsdqca/cctv1hd.m3u8?auth=test20251009
 CCTV-3,http://38.75.136.137:98/gslb/dsdqca/cctv3hd.m3u8?auth=test20251009
-CCTV-5,http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
 CCTV-5,http://23.237.228.134/live5/CCTV5.m3u8
-CCTV-5,http://183.7.172.224:8888/hls/21/index.m3u8
-CCTV-5,rtsp://183.59.156.166/PLTV/88888905/224/3221229805/10000100000000060000000009924448_0.smil?rrsip=125.88.104.40
+CCTV-5,http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
 CCTV-15,http://38.75.136.137:98/gslb/dsdqca/cctv15hd.m3u8?auth=test20251009
 CCTV-16,http://69.30.246.194/live/cctv16.m3u8
 CCTV-16,http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
@@ -20,29 +18,25 @@ CETV-4,http://112.254.55.106:22222/rtp/239.253.254.116:8000
 📡卫视频道,#genre#
 广东卫视,http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub
 广东卫视,http://23.237.228.134/live6/guangdong.m3u8
-广东卫视,http://119.123.76.236:8086/hls/44/index.m3u8
-浙江卫视,http://38.75.136.137:98/gslb/dsdqca/zjwshd.m3u8?auth=test20251009
 浙江卫视,http://69.30.246.194/live/zjws.m3u8
 浙江卫视,http://23.237.228.134/live6/zhejiang.m3u8
-浙江卫视,http://tvlist.top/jd/index.php?id=zjws&qt=183.224.122.114:8014
+浙江卫视,http://38.75.136.137:98/gslb/dsdqca/zjwshd.m3u8?auth=test20251009
+浙江卫视,http://tvlist.top/jd/index.php?id=zjws&qt=118.212.78.251:8014
 浙江卫视,https://play-qukan.cztv.com/live/1746687519046362.m3u8
 浙江卫视,http://59.173.123.31:8989/rtp/239.254.96.143:8932
 湖南卫视,http://69.30.246.194/live/hnws.m3u8
-湖南卫视,http://23.237.228.134/live6/hunan.m3u8
 湖南卫视,http://38.75.136.137:98/gslb/dsdqbv/hnwshd.m3u8?auth=test20251009
+湖南卫视,http://23.237.228.134/live6/hunan.m3u8
 湖南卫视,http://dodge.lwfz.fun:8800/rtp/239.16.20.72:10720
-湖南卫视,http://tvlist.top/jd/index.php?id=hunanws&qt=118.212.78.251:8014
 北京卫视,http://38.75.136.137:98/gslb/dsdqbv/bjwshd.m3u8?auth=test20251009
-北京卫视,http://tvlist.top/jd/index.php?id=bjws&qt=183.224.122.114:8014
-北京卫视,rtsp://183.59.156.166/PLTV/88888905/224/3221230293/780169344.smil?rrsip=125.88.104.40
 湖北卫视,http://23.237.228.134/live6/hubei.m3u8
-湖北卫视,http://38.75.136.137:98/gslb/dsdqca/hbwshd.m3u8?auth=test20251009
 黑龙江卫视,http://38.75.136.137:98/gslb/dsdqpub/hljwshd.m3u8?auth=testpub
 黑龙江卫视,http://23.237.228.134/live6/heilongjiang.m3u8
 安徽卫视,http://38.75.136.137:98/gslb/dsdqpub/ahwshd.m3u8?auth=testpub
 安徽卫视,http://23.237.228.134/live8/anhui.m3u8
 重庆卫视,http://38.75.136.137:98/gslb/dsdqca/cqwshd.m3u8?auth=test20251009
 重庆卫视,http://23.237.228.134/live6/chongqing.m3u8
+重庆卫视,http://tvlist.top/jd/index.php?id=cqws&qt=118.212.78.251:8014
 东方卫视,http://69.30.246.194/live/dfws.m3u8
 东方卫视,http://38.75.136.137:98/gslb/dsdqca/dfwshd.m3u8?auth=test20251009
 东南卫视,http://38.75.136.137:98/gslb/dsdqca/dnwshd.m3u8?auth=test20251009
@@ -50,8 +44,8 @@ CETV-4,http://112.254.55.106:22222/rtp/239.253.254.116:8000
 东南卫视,http://tvlist.top/jd/index.php?id=dnws&qt=183.224.122.114:8014
 甘肃卫视,http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub
 甘肃卫视,http://23.237.228.134/live8/gansu.m3u8
-广西卫视,http://23.237.228.134/live6/guangxi.m3u8
 广西卫视,http://38.75.136.137:98/gslb/dsdqca/gxwshd.m3u8?auth=test20251009
+广西卫视,http://23.237.228.134/live6/guangxi.m3u8
 贵州卫视,http://38.75.136.137:98/gslb/dsdqpub/gzwshd.m3u8?auth=testpub
 贵州卫视,http://23.237.228.134/live6/guizhou.m3u8
 海南卫视,http://23.237.228.134/live6/hainan.m3u8
@@ -62,22 +56,19 @@ CETV-4,http://112.254.55.106:22222/rtp/239.253.254.116:8000
 吉林卫视,http://38.75.136.137:98/gslb/dsdqpub/jlwshd.m3u8?auth=testpub
 吉林卫视,http://23.237.228.134/live8/jilin.m3u8
 江苏卫视,http://69.30.246.194/live/jsws.m3u8
-江苏卫视,http://tvlist.top/jd/index.php?id=jsws&qt=183.224.122.114:8014
 江苏卫视,http://38.75.136.137:98/gslb/dsdqca/jswshd.m3u8?auth=test20251009
 江苏卫视,http://59.173.123.31:8989/rtp/239.254.96.144:8938
 江西卫视,http://38.75.136.137:98/gslb/dsdqpub/jxwshd.m3u8?auth=testpub
 江西卫视,http://23.237.228.134/live8/jiangxi.m3u8
 辽宁卫视,http://38.75.136.137:98/gslb/dsdqca/lnwshd.m3u8?auth=test20251009
 辽宁卫视,http://23.237.228.134/live8/liaoning.m3u8
-辽宁卫视,http://tvlist.top/jd/index.php?id=lnws&qt=118.212.78.251:8014
 内蒙古卫视,http://23.237.228.134/live8/neimenggu.m3u8
 宁夏卫视,http://38.75.136.137:98/gslb/dsdqpub/nxws.m3u8?auth=testpub
 青海卫视,http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub
 青海卫视,http://23.237.228.134/live8/qinghai.m3u8
-青海卫视,http://tvlist.top/jd/index.php?id=qhws&qt=183.224.122.114:8014
-山东卫视,http://23.237.228.134/live8/shandong.m3u8
 山东卫视,http://38.75.136.137:98/gslb/dsdqca/sdwshd.m3u8?auth=test20251009
-山东卫视,http://tvlist.top/jd/index.php?id=sdws&qt=183.224.122.114:8014
+山东卫视,http://23.237.228.134/live8/shandong.m3u8
+山东卫视,http://tvlist.top/jd/index.php?id=sdws&qt=118.212.78.251:8014
 山西卫视,http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub
 山西卫视,http://23.237.228.134/live8/shanxi.m3u8
 山西卫视,http://119.39.9.8:9901/tsfile/live/0118_1.m3u8
@@ -85,7 +76,7 @@ CETV-4,http://112.254.55.106:22222/rtp/239.253.254.116:8000
 陕西卫视,http://23.237.228.134/live8/shanxiws.m3u8
 四川卫视,http://38.75.136.137:98/gslb/dsdqpub/scwshd.m3u8?auth=testpub
 四川卫视,http://23.237.228.134/live6/sichuan.m3u8
-四川卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9zY3dzLm0zdTg=
+四川卫视,http://tvlist.top/jd/index.php?id=scws&qt=118.212.78.251:8014
 深圳卫视,http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
 深圳卫视,http://23.237.228.134/live6/shenzhen.m3u8
 三沙卫视,http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
@@ -93,7 +84,6 @@ CETV-4,http://112.254.55.106:22222/rtp/239.253.254.116:8000
 天津卫视,http://38.75.136.137:98/gslb/dsdqca/tjwshd.m3u8?auth=test20251009
 云南卫视,http://38.75.136.137:98/gslb/dsdqpub/ynwshd.m3u8?auth=testpub
 云南卫视,http://23.237.228.134/live8/yunnan.m3u8
-云南卫视,http://tvlist.top/jd/index.php?id=ynws&qt=183.224.122.114:8014
 
 🎬电影频道,#genre#
 经典电影,https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40
