@@ -1,8 +1,15 @@
 🕘️更新时间,#genre#
-2026-02-18 09:46:36,http://23.237.228.134/live5/CCTV2.m3u8
+2026-02-18 13:21:31,http://23.237.228.134/live5/CCTV2.m3u8
 
 📺央视频道,#genre#
 CCTV-2,http://23.237.228.134/live5/CCTV2.m3u8
+CCTV-4,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
+CCTV-4,http://cctv.sohu.blog/ysxw.php?id=cctv4k&q=lg
+CCTV-6,http://218.17.33.178:53290/tsfile/live/1006_1.m3u8?key=txiptv
+CCTV-7,http://218.17.33.178:53290/tsfile/live/1007_1.m3u8?key=txiptv
+CCTV-11,http://23.237.228.134/live3/CCTV11.m3u8
+CCTV-12,http://38.75.136.137:98/gslb/dsdqpub/cctv12hd.m3u8?auth=testpub
+CCTV-15,http://218.17.33.178:53290/tsfile/live/1015_1.m3u8?key=txiptv
 CCTV-16,http://69.30.246.194/live/cctv16.m3u8
 CCTV-16,http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 CETV-1,http://171.83.103.119:9999/rtp/239.69.1.110:10298
