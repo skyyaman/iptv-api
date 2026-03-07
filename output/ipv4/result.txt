@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-07 20:35:31,http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
+2026-03-08 00:21:27,http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
 
 📺央视频道,#genre#
 CCTV-8,http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
@@ -10,10 +10,8 @@ CETV-4,http://171.83.103.119:9999/rtp/239.69.2.29:11328
 📡卫视频道,#genre#
 湖南卫视,http://38.75.136.137:98/gslb/dsdqbv/hnwshd.m3u8?auth=test20251009
 北京卫视,http://38.75.136.137:98/gslb/dsdqbv/bjwshd.m3u8?auth=test20251009
-安徽卫视,https://iptv.catvod.com/live.php?id=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86&line=2
 东方卫视,http://38.75.136.137:98/gslb/dsdqbv/dfwshd.m3u8?auth=test20251009
 山西卫视,http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub
-陕西卫视,https://iptv.catvod.com/live.php?id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&line=1
 云南卫视,http://38.75.136.137:98/gslb/dsdqpub/ynwshd.m3u8?auth=testpub
 
 🎬电影频道,#genre#
